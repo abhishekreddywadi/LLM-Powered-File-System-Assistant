@@ -64,7 +64,7 @@ class LLMFileAssistant:
         2. Sign up and get your API key
 
         To set API key:
-        export OPENROUTER_API_KEY="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"
+        export OPENROUTER_API_KEY="sk-or-v1-<Secret Key>"
         """
         # Map tool names to actual Python functions
         self.available_tools: Dict[str, Callable] = {
