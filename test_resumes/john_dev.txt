@@ -1,0 +1,4 @@
+John Developer
+Skills: Python, JavaScript, React
+Email: john@email.com
+Experience: 5 years Python development

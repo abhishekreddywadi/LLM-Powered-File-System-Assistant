@@ -1,0 +1,4 @@
+Jane Data
+Skills: Python, SQL, Machine Learning
+Email: jane@email.com
+Experience: 3 years data science

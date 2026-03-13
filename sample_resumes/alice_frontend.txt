@@ -1,0 +1,4 @@
+Alice Frontend
+Skills: JavaScript, React, HTML/CSS
+Email: alice@email.com
+Experience: 4 years frontend dev

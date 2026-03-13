@@ -1,0 +1,9 @@
+# Requirements for LLM File Assistant Assignment (FREE VERSION)
+# ============================================================
+
+# File parsing libraries
+PyPDF2>=3.0.0
+python-docx>=1.0.0
+
+# HTTP library (for optional Ollama support)
+requests>=2.31.0

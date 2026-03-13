@@ -1,0 +1,4 @@
+Charlie Fullstack
+Skills: Python, JavaScript, Django, React
+Email: charlie@email.com
+Experience: 6 years fullstack
